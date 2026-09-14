@@ -1,0 +1,2 @@
+# autoclick
+oto tıklama 
